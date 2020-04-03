@@ -1,4 +1,7 @@
 # Conway's Game Of Life 
+
+Live URL: https://ashcyber.github.io/conway-game-of-life-react/
+
 ## Rules 
 - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 - Any live cell with two or three live neighbours lives on to the next generation.
@@ -6,4 +9,3 @@
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 Reference: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life 
-Live URL: https://ashcyber.github.io/conway-game-of-life-react/
